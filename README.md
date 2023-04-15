@@ -1,4 +1,3 @@
-# Dashboard-Project
-Analyzing Historical Stock/Revenue Data and Building a Dashboard
+<h2>Stock price prediction model </h2>
 
-This is a data science project I did as part of a course on Coursera, where I learnt how to scrap data from the web, clean the data, remove missing values and then visualise the data for it to be interpretted. In this project I have used libraries like Pandas, BeautifulSoup and yfinance. Through this project I was able to implement the theoretical concepts to analyse Revenue Data.
+This is a self-project I did to implement my knowledge of neural networks. Using the 100 day moving average of the closing price of a stock I tried to forecast the price of the stock. For this I learnt how to extract data from the website of Yahoo Finance through 'yfinance', clean the data, remove missing values and then visualise the data for it to be interpretted. This project was a further development of a guided project I did as part of a course on coursera, where I even used Beautful Soup. Though only analysis was required in the project I was also able to predict the future values using multilayered LSTM.
